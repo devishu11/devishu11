@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Devanshu Sharma
 
-<!--
-**devishu11/devishu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Student by day · building stuff by night · googling errors 24/7
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student who decided that staring at code for hours is a personality. I  build things with HTML, CSS & JS — some of them even work. currently on my villain arc of making UIs that don't embarrass me.
+
+## 🛠 tech stack
+
+![ HTML ]
+![ CSS ]
+![ JavaScript ]
+![ Git ]
+![ VS Code ]
+
+
+## 📊 github stats (don't judge the commit streak)
+
+| commits | bugs fixed | bugs created |
+|---------|------------|--------------|
+| ∞       | some       | more         |
+
+## 🤝 Let's connect
+
+If you want to collab, roast my code, or just say hi — my dms are open. i don't bite. (the code sometimes does though.)
+
+## Here is my project 
+
+This project is realted to health realted qurries , if you have any type of doubt just ask it , this model solve every doubt for your.
+- health-tech.up.railway.app
