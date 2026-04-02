@@ -8,11 +8,11 @@ I'm a student who decided that staring at code for hours is a personality. I  bu
 
 ## 🛠 tech stack
 
-![ HTML ]
-![ CSS ]
-![ JavaScript ]
-![ Git ]
-![ VS Code ]
+[ HTML ]
+[ CSS ]
+[ JavaScript ]
+[ Git ]
+[ VS Code ]
 
 
 ## 📊 github stats (don't judge the commit streak)
