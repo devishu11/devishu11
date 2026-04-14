@@ -27,5 +27,5 @@ If you want to collab, roast my code, or just say hi — my dms are open. i don'
 
 ## Here is my project 
 
-This project is realted to health realted qurries , if you have any type of doubt just ask it , this model solve every doubt for your.
+This project is related to health related queries , if you have any type of doubt just ask it , this model solve every doubt for your.
 - health-tech.up.railway.app
